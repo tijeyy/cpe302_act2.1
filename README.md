@@ -1,13 +1,13 @@
 # cpe302_act2.1
 
-Beethoven’s Ninth Symphony
-<i> Create a page showing the different sections of the fourth movement of Beethoven’s Ninth Symphony </i>
+Pedro's HTML Resume
+<i> Create an equivalent HTML document of Pedro's resume </i>
 
-At the end of this exercise, the students are expected to: <br>
-• Create an unordered list <br>
-• Learn how to add an inline graphic image <br>
-• Create a online resume <br>
-• Know how to use different formatting tags 
+At the end of this exercise, the students are expected to:
+•Create an unordered list
+•Learn how to add an inline graphic image
+•Create a online resume
+•Know how to use different formatting tags 
 
 HTML CODE at index.html
 
